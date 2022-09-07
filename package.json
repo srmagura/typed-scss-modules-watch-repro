@@ -1,0 +1,11 @@
+{
+  "name": "typed-scss-modules-watch-repro",
+  "scripts": {
+    "watch": "typed-scss-modules \"src/**/*.module.scss\" --watch"
+  },
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "sass": "^1.54.8",
+    "typed-scss-modules": "^6.5.0"
+  }
+}
